@@ -7,5 +7,6 @@ It's an desktop application written in java designed to be simple to use and yet
   * Users can choose their own alarm ringtone
   * Each alarm associated with a memo.
   * contains shortcuts to some popular social media websites ( facebook, twitter, youtube and instagram )
+ 
 # Licence 
 MIT

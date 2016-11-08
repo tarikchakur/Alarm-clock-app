@@ -9,4 +9,4 @@ It's an desktop application written in java designed to be simple to use and yet
 * contains shortcuts to some popular social media websites ( facebook, twitter, youtube and instagram )
 
 # License 
-MIT
+GPL
